@@ -1,0 +1,4 @@
+{
+    "editor.wordWrap": "off",
+    "python.defaultInterpreterPath": "~/micromamba/envs/dataphilly/bin/python"
+}
